@@ -1,5 +1,6 @@
 ---
 title: "Lab1"
+author: "Namrata Kolla"
 output: html_document
 ---
 
