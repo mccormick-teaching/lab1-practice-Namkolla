@@ -4,6 +4,12 @@ author: "Namrata Kolla"
 output: html_document
 ---
 
+## Testing Section
+
+Learned how to stage, commit, and push! 
+
+Outstanding question: we only generate a pull request when we think we are finished and are ready for the instructors to see, correct?
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
